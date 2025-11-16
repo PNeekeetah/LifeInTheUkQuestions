@@ -1,12 +1,9 @@
 import tkinter as tk
-from tkinter import messagebox
 from dataclasses import dataclass, field
 from typing import List, Optional, Set
 import random
 import pickle
 import os
-
-from pprint import pprint as print
 
 @dataclass
 class QuestionBlock:
