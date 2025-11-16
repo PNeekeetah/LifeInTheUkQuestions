@@ -1,0 +1,1611 @@
+[
+    {
+        "correctness": "wrong",
+        "question": "Who appoints the members of the Cabinet?",
+        "choices": [
+            "The King",
+            "The Prime Minister",
+            "The Prince of Wales",
+            "The Magistrates"
+        ],
+        "personal_comment": "It was the prime minister.",
+        "official_explanation": "The Prime Minister (PM) is the leader of the political party in power. He or she appoints the members of the cabinet and has control over many important public appointments.",
+        "correct_answers": [
+            "The Prime Minister"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which court usually deals with serious criminal cases in Scotland?",
+        "choices": [
+            "The Sheriff Court",
+            "The Crown Court",
+            "The High Court",
+            "The Magistrates’ Court"
+        ],
+        "personal_comment": "Serious - Sheriff | Most serious - High Court",
+        "official_explanation": "In Scotland, serious criminal cases are heard in a Sheriff Court with either a sheriff or a sheriff with a jury. The most serious cases in Scotland, such as murder, are heard at a High Court with a judge and jury.",
+        "correct_answers": [
+            "The High Court"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who directed the movie ‘The Killing Fields’ in 1984?",
+        "choices": [
+            "Roland Joffé",
+            "Hugh Hudson",
+            "Kevin MacDonald",
+            "Nicolas Roeg"
+        ],
+        "personal_comment": "Joffe has a weird ass name. It has to be him.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Roland Joffé"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 2010?",
+        "choices": [
+            "Just over 50 million",
+            "Just over 62 million",
+            "Just under 50 million",
+            "Just under 60 million"
+        ],
+        "personal_comment": "I guessed 62 million, but I equally could've gone for 60 million.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Just over 62 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which composer wrote music for King George I and for his son, George II?",
+        "choices": [
+            "George Frederick Handel",
+            "Gustav Holst",
+            "Ralph Vaughan Williams",
+            "Henry Purcell"
+        ],
+        "personal_comment": "Had a inkling that it was Handel",
+        "official_explanation": "George Frederick Handel wrote the Water Music for King George I and Music for the Royal Fireworks for his son, George II.",
+        "correct_answers": [
+            "George Frederick Handel"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 1998?",
+        "choices": [
+            "40 million",
+            "50 million",
+            "55 million",
+            "57 million"
+        ],
+        "personal_comment": "I just guessed that it should have been around 57 since in 2010 it was 62 mil.",
+        "official_explanation": "The population of the UK in 1998 was 57 million people.",
+        "correct_answers": [
+            "57 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What British artist was awarded the Turner Prize?",
+        "choices": [
+            "David Allan",
+            "Damien Hirst",
+            "Henry Moore",
+            "John Petts"
+        ],
+        "personal_comment": "It was Hirst. I dunno how I guessed this tbf.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Damien Hirst"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who was Henry Purcell?",
+        "choices": [
+            "A German-born composer",
+            "An organist at Westminster Abbey",
+            "An opera composer",
+            "A jazz musician"
+        ],
+        "personal_comment": "Organist at westminster",
+        "official_explanation": "Henry Purcell (1659-95) was the organist at Westminster Abbey. He wrote church music, operas and other pieces, and developed a British style distinct from that elsewhere in Europe.",
+        "correct_answers": [
+            "An organist at Westminster Abbey"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "How can you visit the Scottish Parliament?",
+        "choices": [
+            "Arranging a tour through the visitor services",
+            "Contacting the Education Service",
+            "Contacting an AM",
+            "Contacting an MP"
+        ],
+        "personal_comment": "For scotland, it's the visitor services",
+        "official_explanation": null,
+        "correct_answers": [
+            "Arranging a tour through the visitor services"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which of the following countries belongs to the Commonwealth?",
+        "choices": [
+            "Morocco",
+            "Algeria",
+            "Mozambique",
+            "Mali"
+        ],
+        "personal_comment": "I know Morocco and ALgeria probably have something to do with France. It was Mozambique, anyway.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Mozambique"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did the UK sign the European Convention of Human Rights?",
+        "choices": [
+            "1940",
+            "1945",
+            "1950",
+            "1955"
+        ],
+        "personal_comment": "I guessed 1950",
+        "official_explanation": null,
+        "correct_answers": [
+            "1950"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which British writer wrote satirical novels including Brideshead Revisited?",
+        "choices": [
+            "Evelyn Waugh",
+            "Sir Arthur Conan Doyle",
+            "Sir Kingsley Amis",
+            "Thomas Hardy"
+        ],
+        "personal_comment": "I guessed Evelyn beacause he has the name of a woman.",
+        "official_explanation": "Evelyn Waugh wrote satirical novels, including Decline and Fall and Scoop. He is perhaps best known for Brideshead Revisited.",
+        "correct_answers": [
+            "Evelyn Waugh"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 1600?",
+        "choices": [
+            "Just over 3 million",
+            "Just over 4 million",
+            "Just under 3 million",
+            "Just over 5 million"
+        ],
+        "personal_comment": "4 million",
+        "official_explanation": null,
+        "correct_answers": [
+            "Just over 4 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which court deals with the most serious cases of children aged 10 to 17 in England, Wales and Northern Ireland?",
+        "choices": [
+            "The High Court",
+            "The Youth Court",
+            "The Magistrates’ Court",
+            "The Crown Court"
+        ],
+        "personal_comment": "It's the crown court for serious offences",
+        "official_explanation": null,
+        "correct_answers": [
+            "The Crown Court"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "How can you visit the Northern Ireland Assembly (choose TWO options)?",
+        "choices": [
+            "Contacting the Education Service",
+            "Contacting an MSP",
+            "Contacting an MLA",
+            "Arranging a tour through the visitor services"
+        ],
+        "personal_comment": "I know that you have to contact an MLA - I wasn't sure about the next one - it's the Education Service apparently",
+        "official_explanation": "There are two ways to arrange a visit to the Northern Ireland Assembly at Stormont. You can either contact the Education Service (details are on the Northern Ireland Assembly website at http://www.niassembly.gov.uk) or contact an MLA.",
+        "correct_answers": [
+            "Contacting an MLA",
+            "Contacting the Education Service"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Eid ul Adha is the day when Muslims thank Allah for giving them the strength to complete the fast:",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "The right answer is False. Eid al Fitr is the Finish (Fitr - Finish) . Adha is the day of the sacrifice.",
+        "official_explanation": "The day when Muslims thank Allah for giving them the strength to complete the fast is called Eid a-Fitr.",
+        "correct_answers": [
+            "False"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What religion did Elizabeth I follow?",
+        "choices": [
+            "Catholic",
+            "Protestant",
+            "Hindu",
+            "Buddhist"
+        ],
+        "personal_comment": "She was a protestant.",
+        "official_explanation": "Queen Elizabeth I was a Protestant.",
+        "correct_answers": [
+            "Protestant"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Where is Snowdonia National Park located?",
+        "choices": [
+            "North Wales",
+            "Northern Ireland",
+            "South Wales",
+            "England"
+        ],
+        "personal_comment": "I guessed North Wales correctly.",
+        "official_explanation": null,
+        "correct_answers": [
+            "North Wales"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When was the Battle of Agincourt fought?",
+        "choices": [
+            "1348",
+            "1415",
+            "1315",
+            "1448"
+        ],
+        "personal_comment": "It was 1415 FFS.",
+        "official_explanation": null,
+        "correct_answers": [
+            "1415"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 2005?",
+        "choices": [
+            "Just under 50 million",
+            "Just under 60 million",
+            "Just over 50 million",
+            "Just under 62 million"
+        ],
+        "personal_comment": "I know in 2010 ( from the prev test) that it was 60 million. So just under 60 here.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Just under 60 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What is the function of the UN Security Council?",
+        "choices": [
+            "Recommend action when there are international crises and threats to peace",
+            "Recommend humanitarian action when there are natural disasters",
+            "Protect and promote human rights",
+            "Promote international trade relationships"
+        ],
+        "personal_comment": "It's `Recommend action when there are international crises and threats to peace` - I somehow thought of the council of europe and failed this one",
+        "official_explanation": "The UN Security Council, which recommends action when there are international crises and threats to peace.",
+        "correct_answers": [
+            "Recommend action when there are international crises and threats to peace"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who was Richard Austen Butler?",
+        "choices": [
+            "A British economist",
+            "A Welsh poet",
+            "A Labour MP",
+            "A Conservative MP"
+        ],
+        "personal_comment": "I assumed that only Labour could do something useful for this country (The butler act, free secondary school). Turns out I was wrong (he was Conservative )",
+        "official_explanation": "Richard Austen Butler (later Lord Butler) became a Conservative MP in 1923 and held several positions before becoming responsible for education in 1941.",
+        "correct_answers": [
+            "A Conservative MP"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 1700?",
+        "choices": [
+            "2 million",
+            "4 million",
+            "5 million",
+            "8 million"
+        ],
+        "personal_comment": "It is 5 million",
+        "official_explanation": "The population of the UK in 1700 was 5 million people.",
+        "correct_answers": [
+            "5 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Where is Loch Lomond and the Trossachs National Park located?",
+        "choices": [
+            "East of Wales",
+            "West of Wales",
+            "West of Scotland",
+            "East of Scotland"
+        ],
+        "personal_comment": "I know it's Scotland, but I had to guess West.",
+        "official_explanation": null,
+        "correct_answers": [
+            "West of Scotland"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which of the following countries were granted their independence in 1947 (choose THREE answers)?",
+        "choices": [
+            "India",
+            "Bangladesh",
+            "Pakistan",
+            "Ceylon (Sri Lanka)"
+        ],
+        "personal_comment": "All but bangladesh basically.",
+        "official_explanation": "In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka).",
+        "correct_answers": [
+            "Ceylon (Sri Lanka)",
+            "Pakistan",
+            "India"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did the BBC start the world’s first regular television service?",
+        "choices": [
+            "1922",
+            "1932",
+            "1936",
+            "1944"
+        ],
+        "personal_comment": "1922 - First radiop | 1932 - First broadcast | 1936 - First regular TV show",
+        "official_explanation": "The BBC started radio broadcasts in 1922 and began the world’s first regular television service in 1936.",
+        "correct_answers": [
+            "1936"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which golf ‘Major’ tournament is hosted by a different golf course every year?",
+        "choices": [
+            "The Open Championship",
+            "The PGA Championship",
+            "The Masters Tournament",
+            "The U.S. Open"
+        ],
+        "personal_comment": "It's open because it's hosted by different! (mnemonic)",
+        "official_explanation": "The open championship is the only ‘Major’ tournament held outside United States. It is hosted by a different golf course every year.",
+        "correct_answers": [
+            "The U.S. Open"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What is the role of the shadow cabinet?",
+        "choices": [
+            "To keep order during political debates to make sure the rules are followed",
+            "To challenge the government and put forward alternative policies",
+            "To point out what they see as the government’s failures and weaknesses",
+            "To control important public appointments"
+        ],
+        "personal_comment": "Put forward alternative policies. (not challenge)",
+        "official_explanation": null,
+        "correct_answers": [
+            "To challenge the government and put forward alternative policies"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When was St Pancras Station built?",
+        "choices": [
+            "In the 18th century",
+            "In the 19th century",
+            "In the 20th century",
+            "In the 21st century"
+        ],
+        "personal_comment": "Parliament and pancras are built in the 19th century",
+        "official_explanation": "St Pancras Station was built in the 19th century.",
+        "correct_answers": [
+            "In the 19th century"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When were films first shown publicly in the UK?",
+        "choices": [
+            "In 1887",
+            "In 1896",
+            "In 1897",
+            "In 1886"
+        ],
+        "personal_comment": "My mnemonic is 101 years before 1997.",
+        "official_explanation": null,
+        "correct_answers": [
+            "In 1896"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who led a Scottish army against Oliver Cromwell just after England had been declared a Republic?",
+        "choices": [
+            "Charles I",
+            "Charles II",
+            "Henry V",
+            "James I"
+        ],
+        "personal_comment": "Charles II.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Charles II"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "The Muslim festival known as Eid ul Adha reminds Muslims of their own commitment to God:",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "It's true.",
+        "official_explanation": null,
+        "correct_answers": [
+            "True"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which country invaded the Falkland Islands in 1982?",
+        "choices": [
+            "Germany",
+            "The Netherlands",
+            "Argentina",
+            "France"
+        ],
+        "personal_comment": "I was probably thinking of the Boer wars. Anyway, it was Argentina.",
+        "official_explanation": "In 1982, Argentina invaded the Falkland Islands, a British overseas territory in the South Atlantic.",
+        "correct_answers": [
+            "Argentina"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What is the first verse of the National Anthem of the UK God save the King?",
+        "choices": [
+            "Long to reign over us",
+            "God save the King!",
+            "Long live our noble King!",
+            "God save our gracious King!"
+        ],
+        "personal_comment": "God save our gracious King",
+        "official_explanation": "The first verse of the National Anthem of the UK is God save our gracious King!.",
+        "correct_answers": [
+            "God save our gracious King!"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which Court deals with the most serious civil cases in Scotland?",
+        "choices": [
+            "The High Court",
+            "The Sheriff Court",
+            "The Court of Session",
+            "The Crown Court"
+        ],
+        "personal_comment": "It was the court of session.",
+        "official_explanation": "More serious civil cases – for example, when a large amount of compensation is being claimed – are dealt with in the High Court of England, Wales and Northern Ireland. In Scotland, they are dealt with in the Court of Session in Edinburgh.",
+        "correct_answers": [
+            "The Court of Session"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which Scottish physician and researcher co-discovered the insulin used to treat diabetes?",
+        "choices": [
+            "Francis Crick",
+            "Sir Robert Watson-Watt",
+            "John McLeod",
+            "John Logie Baird"
+        ],
+        "personal_comment": "Your vision get MCCloudy when you have diabetes (well, you stop seeing really)",
+        "official_explanation": null,
+        "correct_answers": [
+            "John McLeod"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did the Black Death come to England?",
+        "choices": [
+            "In 1248",
+            "In 1348",
+            "In 1358",
+            "In 1414"
+        ],
+        "personal_comment": "I just guessed 1348. 1248 was too early, 1414 was too late.",
+        "official_explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death.",
+        "correct_answers": [
+            "In 1348"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "In which period did British Film studios flourish?",
+        "choices": [
+            "1920s",
+            "1930s",
+            "1940s",
+            "1950s"
+        ],
+        "personal_comment": "It's the 1930s.",
+        "official_explanation": null,
+        "correct_answers": [
+            "1930s"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which of the following is a UNESCO World Heritage Site and a popular area for walkers?",
+        "choices": [
+            "The Giants Causeway",
+            "Hadrian’s Wall",
+            "The house of the parliament",
+            "Buckingham Palace"
+        ],
+        "personal_comment": "It was Hadrian's Wall.",
+        "official_explanation": "Parts of Hadrian’s Wall, including the forts of Housesteads and Vindolanda is a popular area for walkers and is a UNESCO (United Nations Educational Scientific and Cultural Organization) World Heritage Site.",
+        "correct_answers": [
+            "Hadrian’s Wall"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes killed the Protestant king with a bomb in the Houses of Parliament:",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "False - I should read the questions more carefully",
+        "official_explanation": "Bonfire Night remembers the day when a group of Catholics led by Guy Fawkes failed in their plan to kill the Protestant king with a bomb in the Houses of Parliament.",
+        "correct_answers": [
+            "False"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did Gordon Brown take over as Prime Minister from his predecessor Tony Blair?",
+        "choices": [
+            "In 2007",
+            "In 2008",
+            "In 2009",
+            "In 2010"
+        ],
+        "personal_comment": "Im 2010, David Cameron was leading the Uk. I assumed that he must have lead for at least some years.",
+        "official_explanation": "Gordon Brown took over as Prime Minister from Tony Blair in 2007.",
+        "correct_answers": [
+            "In 2007"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "According to the 2011 Census, what percentage of the population identified themselves as Muslim?",
+        "choices": [
+            "1%",
+            "2%",
+            "3%",
+            "4.8%"
+        ],
+        "personal_comment": "Not a geometric progression as I initially thought",
+        "official_explanation": "Correct\nIn the 2011 Census, 59% of people identified themselves as Christian. Much smaller proportions identified themselves as Muslim (4.8%), Hindu (1.5%), Sikh (0.8%), Jewish or Buddhist (both less than 0.5%).",
+        "correct_answers": [
+            "4.8%"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which British city is famous for its celebration of Diwali?",
+        "choices": [
+            "London",
+            "Newcastle upon Tyne",
+            "Leicester",
+            "Manchester"
+        ],
+        "personal_comment": "DiwaLi - Leicester",
+        "official_explanation": "There is a famous celebration of Diwali in Leicester.",
+        "correct_answers": [
+            "Leicester"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "How many members does the Scottish Parliament have?",
+        "choices": [
+            "60",
+            "90",
+            "120",
+            "129"
+        ],
+        "personal_comment": "It's actually 129",
+        "official_explanation": null,
+        "correct_answers": [
+            "129"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which countries fought alongside Britain against Russia during the Crimean War?",
+        "choices": [
+            "France and Cyprus",
+            "Germany and Cyprus",
+            "Germany and Turkey",
+            "France and Turkey"
+        ],
+        "personal_comment": "It was France and Turkey.",
+        "official_explanation": null,
+        "correct_answers": [
+            "France and Turkey"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did the ‘Habeas Corpus Act’ become law?",
+        "choices": [
+            "In 1679",
+            "In 1669",
+            "In 1689",
+            "In 1709"
+        ],
+        "personal_comment": "I guessed 1679 - it could have been 1689 as well. | Anyway, a good mnemonic for this one is 1 67 (consecutive ) 9",
+        "official_explanation": null,
+        "correct_answers": [
+            "In 1679"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who won an Olympic gold medal in the pentathlon in 1972?",
+        "choices": [
+            "Sir Ian Botham",
+            "Mary Peters",
+            "Dame Kelly Holmes",
+            "Jessica Ennis"
+        ],
+        "personal_comment": "Ian cricket (i think) | Kelly Holmes - Running in 2004 | Jessica ennis - Capra foarte bine alergata - heptathlon ( 2016 )",
+        "official_explanation": "Mary Peters was a talented athlete who won an Olympic gold medal in the pentathlon in 1972.",
+        "correct_answers": [
+            "Mary Peters"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What was the population of the UK in 1801?",
+        "choices": [
+            "5 million",
+            "8 million",
+            "10 million",
+            "12 million"
+        ],
+        "personal_comment": "It was 8 million.",
+        "official_explanation": "The population of the UK in 1801 was 8 million people.",
+        "correct_answers": [
+            "8 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who was the first Archbishop of Canterbury?",
+        "choices": [
+            "St Augustine",
+            "St Columba",
+            "St Andrew",
+            "Kenneth MacAlpin"
+        ],
+        "personal_comment": "Archbishop Augustine (mnemonic)",
+        "official_explanation": null,
+        "correct_answers": [
+            "St Augustine"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "How many ski centres are there in Scotland?",
+        "choices": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "personal_comment": "I always get this one wrong. It's 5",
+        "official_explanation": "There are five ski centres in Scotland, as well as Europe’s longest dry ski slope near Edinburgh",
+        "correct_answers": [
+            "5"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What do Sir Terence Conran, Clarice Cliff and Thomas Chippendale have in common?",
+        "choices": [
+            "They were British designers",
+            "They developed the atomic bomb",
+            "They were British explorers",
+            "They were British poets"
+        ],
+        "personal_comment": "Chippendale sounded like a designer ( they are all designers )",
+        "official_explanation": "Britain has produced many great designers, from Thomas Chippendale (who designed furniture in the 18th century) to Clarice Cliff (who designed Art Deco ceramics) to Sir Terence Conran (a 20th-century interior designer).",
+        "correct_answers": [
+            "They were British designers"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?",
+        "choices": [
+            "Sir Chris Hoy",
+            "Christopher Dean",
+            "Bradley Wiggins",
+            "Sir Steve Redgrave"
+        ],
+        "personal_comment": "I always forget that it's Redgrave",
+        "official_explanation": null,
+        "correct_answers": [
+            "Sir Steve Redgrave"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When did the English civil war start?",
+        "choices": [
+            "1632",
+            "1635",
+            "1642",
+            "1652"
+        ],
+        "personal_comment": "1635 sounded like a vibe, but it was actually 1642.",
+        "official_explanation": "Civil war between the king and Parliament could not now be avoided and began in 1642.",
+        "correct_answers": [
+            "1642"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "How can you visit the Senedd?",
+        "choices": [
+            "Contacting the Education Service",
+            "Contacting the Senedd Booking Service",
+            "Contacting an MP",
+            "Contacting an MLA"
+        ],
+        "personal_comment": "I guessed Senedd booking service somehow (and thought of scotland :/ )",
+        "official_explanation": "To book guided tours or seats in the public galleries for the Senedd you can contact the Senedd Booking Service on 0300 200 6565, email contact@senedd.wales or visit www.senedd.wales for an online booking form.",
+        "correct_answers": [
+            "Contacting the Senedd Booking Service"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When did William of Orange invade England to proclaim himself king?",
+        "choices": [
+            "1689",
+            "1690",
+            "1688",
+            "1687"
+        ],
+        "personal_comment": "Had no idea really.  It was 1688.",
+        "official_explanation": "In 1688, important Protestants in England asked William of Orange to invade England and proclaim himself king. When William reached England, there was no resistance. James fled to France and William took over the throne, becoming William III in England, Wales and Ireland, and William II of Scotland.",
+        "correct_answers": [
+            "1688"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who wrote an oratorio called ‘Messiah’, which is regularly sung by choirs at Easter time?",
+        "choices": [
+            "George Frederick Handel",
+            "Sir Edward Elgar",
+            "Gustav Holst",
+            "Henry Purcell"
+        ],
+        "personal_comment": "Messiah - Handel",
+        "official_explanation": "George Frederick Handel wrote an oratorio, Messiah, which is sung regularly by choirs, often at Easter time.",
+        "correct_answers": [
+            "George Frederick Handel"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When was Ireland divided into two countries?",
+        "choices": [
+            "In 1920",
+            "In 1922",
+            "In 1925",
+            "In 1928"
+        ],
+        "personal_comment": "In 1922",
+        "official_explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries.",
+        "correct_answers": [
+            "In 1922"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "When is the Mercury Music Prize awarded?",
+        "choices": [
+            "July",
+            "August",
+            "September",
+            "October"
+        ],
+        "personal_comment": "It's September.",
+        "official_explanation": null,
+        "correct_answers": [
+            "September"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What percentage of the total British population is located in Wales?",
+        "choices": [
+            "30%",
+            "5%",
+            "8%",
+            "3%"
+        ],
+        "personal_comment": "It was 5%",
+        "official_explanation": null,
+        "correct_answers": [
+            "5%"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which British sportswoman won two gold medals for running in the 2004 Olympic Games?",
+        "choices": [
+            "Dame Ellen MacArthur",
+            "Jayne Torvill",
+            "Dame Kelly Holmes",
+            "Jessica Ennis-Hill"
+        ],
+        "personal_comment": "It was Dame Kelly Holmes.",
+        "official_explanation": "Dame Kelly Holmes won two gold medals for running in the 2004 Olympic Games. She has held a number of British and European records.",
+        "correct_answers": [
+            "Dame Kelly Holmes"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "During which religious celebration do Muslims sacrifice an animal to eat?",
+        "choices": [
+            "Eid ul Adha",
+            "Eid a-Fitr",
+            "Ramadan",
+            "Vaisakhi"
+        ],
+        "personal_comment": "It was Eid ul Adha" ,
+        "official_explanation": "Many Muslims sacrifice an animal to eat during Eid ul Adha.",
+        "correct_answers": [
+            "Eid ul Adha"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which famous architect designed St Paul’s Cathedral after it was destroyed by a fire in 1666?",
+        "choices": [
+            "Sir Christopher Wren",
+            "Isaac Newton",
+            "Robert Burns",
+            "Isambard Kingdom Brunel"
+        ],
+        "personal_comment": "I always guess Sir Christopher Wren just because I know the others are poets, scientists and the guy responsible for building bridges and railways",
+        "official_explanation": null,
+        "correct_answers": [
+            "Sir Christopher Wren"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who was the British Minister after Margaret Thatcher?",
+        "choices": [
+            "Tony Blair",
+            "Harold Macmillan",
+            "Gordon Brown",
+            "John Major"
+        ],
+        "personal_comment": "It's John Major, not Gordon Brown.",
+        "official_explanation": "Correct\nJohn Major was Prime Minister after Mrs Thatcher, and helped establish the Northern Ireland peace process.",
+        "correct_answers": [
+            "John Major"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who is the fastest person to have sailed around the world single-handed?",
+        "choices": [
+            "Dame Kelly Holmes",
+            "Dame Ellen MacArthur",
+            "Jayne Torvill",
+            "Bradley Wiggins"
+        ],
+        "personal_comment": "Francis Drake - First / Francis Chichester - Single handed / Knox - Single handed without stopping / Ellen MacArthur - Fastest single handed",
+        "official_explanation": "Correct\nDame Ellen MacArthur (1976-) is a yachtswoman and in 2004 became the fastest person to sail around the world singlehanded.",
+        "correct_answers": [
+            "Dame Ellen MacArthur"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which golf ‘Major’ tournament is held outside the United States?",
+        "choices": [
+            "The Masters Tournament",
+            "The U.S. Open",
+            "The Open Championship",
+            "The PGA Championship"
+        ],
+        "personal_comment": "The open championship.",
+        "official_explanation": null,
+        "correct_answers": [
+            "The Open Championship"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which Act incorporated the European Convention of Human Rights into UK law?",
+        "choices": [
+            "The Discrimination Act 1995",
+            "The Equality Act 2010",
+            "The Freedom Act 2012",
+            "The Human Rights Act 1998"
+        ],
+        "personal_comment": "The human rights act 1998",
+        "official_explanation": null,
+        "correct_answers": [
+            "The Human Rights Act 1998"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Where was Isaac Newton from?",
+        "choices": [
+            "Lincolnshire",
+            "Stratford-upon-Avon",
+            "Cardiff",
+            "Edinburgh"
+        ],
+        "personal_comment": "I thought of Shakespeare. It was actually Lincolnshire.",
+        "official_explanation": "Isaac Newton was born in Lincolnshire, eastern England.",
+        "correct_answers": [
+            "Lincolnshire"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who is the fastest person to have sailed around the world singlehanded?",
+        "choices": [
+            "Dame Kelly Holmes",
+            "Dame Ellen MacArthur",
+            "Jayne Torvill",
+            "Bradley Wiggins"
+        ],
+        "personal_comment": "Ellen MacArthur",
+        "official_explanation": "Dame Ellen MacArthur is a yachtswoman and in 2004 became the fastest person to sail around the world single-handed.",
+        "correct_answers": [
+            "Dame Ellen MacArthur"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which of the following poets wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England?",
+        "choices": [
+            "Geoffrey Chaucer",
+            "William Blake",
+            "Sir Walter Scott",
+            "William Wordsworth"
+        ],
+        "personal_comment": "Chaucher wrote canterbury tales | William blake wrote Tyger | William Wordsworth had something to do with writing about nature and probably daffodills | So only walter scott remains",
+        "official_explanation": "Sir Walter Scott wrote poems inspired by Scotland and the traditional stories and songs from the area on the borders of Scotland and England",
+        "correct_answers": [
+            "Sir Walter Scott"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What name is given to the day that marks the end of the Ramadan, when Muslims have fasted for a month?",
+        "choices": [
+            "Vaisakhi",
+            "Eid a-Fitr",
+            "Eid ul Adha",
+            "Hanukkah"
+        ],
+        "personal_comment": "Eid a-Fitr",
+        "official_explanation": null,
+        "correct_answers": [
+            "Eid a-Fitr"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which battle signified the end of the Wars of the Roses?",
+        "choices": [
+            "The Battle of Agincourt",
+            "The Battle of Bosworth Field",
+            "The Battle of Bannockburn",
+            "The Battle of Marston Moor"
+        ],
+        "personal_comment": "It was Bosworth field. I chose Agincourt (100 year wars). Well done me.",
+        "official_explanation": "The Wars of the Roses ended with the Battle of Bosworth Field in 1485.",
+        "correct_answers": [
+            "The Battle of Bosworth Field"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which famous architect designed Dumfries House?",
+        "choices": [
+            "Sir Christopher Wren",
+            "Robert Adam",
+            "Sir Norman Foster",
+            "Dame Zaha Hadid"
+        ],
+        "personal_comment": "It was Robert Adam - I didn't know anything about the last 2, the first one had to do with something else.",
+        "official_explanation": "The Scottish architect Robert Adam designed the inside decoration as well as the building itself in great houses such as Dumfries House in Scotland.",
+        "correct_answers": [
+            "Robert Adam"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 1951?",
+        "choices": [
+            "20 million",
+            "40 million",
+            "35 million",
+            "50 million"
+        ],
+        "personal_comment": "I could have gone for 40 as well ... but I have chosen 50 and it was correct.",
+        "official_explanation": "The population of the UK in 1951 was 50 million people.",
+        "correct_answers": [
+            "50 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What percentage of the total British population is located in Northern Ireland?",
+        "choices": [
+            "30%",
+            "5%",
+            "8%",
+            "Less than 3%"
+        ],
+        "personal_comment": "Biggest! - England - Scotland - Wales - Northern Ireland - smallest!",
+        "official_explanation": "The population is very unequally distributed over the four parts of the UK. England more or less consistently makes up 84% of the total population, Wales around 5%, Scotland just over 8%, and Northern Ireland less than 3%.",
+        "correct_answers": [
+            "Less than 3%"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which of the following statements about Mary, Queen of Scotland, is NOT true?",
+        "choices": [
+            "She spent most of her childhood in France",
+            "She was a Protestant",
+            "She gave her throne to her Protestant son, James VI of Scotland.",
+            "She was kept her prisoner for 20 years"
+        ],
+        "personal_comment": "I need to remember that she was a catholic ( elizabeth was protestant )",
+        "official_explanation": null,
+        "correct_answers": [
+            "She was a Protestant"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who discovered the penicillin in 1928?",
+        "choices": [
+            "Sir Robert Watson-Watt",
+            "Alexander Fleming",
+            "John McLeod",
+            "Howard Florey"
+        ],
+        "personal_comment": "Flu - Fleming - Penicillin",
+        "official_explanation": "Alexander Fleming was researching influenza (the ‘flu’) in 1928 when he discovered penicillin.",
+        "correct_answers": [
+            "Alexander Fleming"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who was the first king of the House of Tudor?",
+        "choices": [
+            "King Richard III",
+            "Henry Tudor",
+            "Henry V",
+            "James I"
+        ],
+        "personal_comment": "Henry Tudor - this should've been obv",
+        "official_explanation": null,
+        "correct_answers": [
+            "Henry Tudor"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did Henry VIII die?",
+        "choices": [
+            "In January 1547",
+            "In January 1557",
+            "In February 1547",
+            "In February 1557"
+        ],
+        "personal_comment": "April 1509 ,Jan 1547",
+        "official_explanation": null,
+        "correct_answers": [
+            "In January 1547"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When was the first tennis club founded in the UK?",
+        "choices": [
+            "1772",
+            "1872",
+            "1862",
+            "1762"
+        ],
+        "personal_comment": "1872",
+        "official_explanation": null,
+        "correct_answers": [
+            "1872"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who was the first Briton to win the ‘Tour de France’?",
+        "choices": [
+            "Sir Chris Hoy",
+            "Bradley Wiggins",
+            "Andy Murray",
+            "Sir Steve Redgrave"
+        ],
+        "personal_comment": "Briton  - Bradley Wiggins",
+        "official_explanation": null,
+        "correct_answers": [
+            "Bradley Wiggins"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "What was the population of the UK in 1901?",
+        "choices": [
+            "20 million",
+            "40 million",
+            "30 million",
+            "50 million"
+        ],
+        "personal_comment": "It's 40 million",
+        "official_explanation": "The population of the UK in 1901 was 40 million people.",
+        "correct_answers": [
+            "40 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "In which city is the Millennium Stadium located?",
+        "choices": [
+            "Birmingham",
+            "Nottingham",
+            "Liverpool",
+            "Cardiff"
+        ],
+        "personal_comment": "Cardiff",
+        "official_explanation": "The Millennium Stadium is located in Cardiff.",
+        "correct_answers": [
+            "Cardiff"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "What was the population of the UK in 1851?",
+        "choices": [
+            "20 million",
+            "40 million",
+            "30 million",
+            "50 million"
+        ],
+        "personal_comment": "It was 20 million",
+        "official_explanation": null,
+        "correct_answers": [
+            "20 million"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which is the most famous rugby union competition?",
+        "choices": [
+            "The Grand National",
+            "The Six Nations Championship",
+            "The All England Championship",
+            "The Super League"
+        ],
+        "personal_comment": "Rugby UNION! (not league).",
+        "official_explanation": "The most famous rugby union competition is the Six Nations Championship between England, Ireland, Scotland, Wales, France and Italy.",
+        "correct_answers": [
+            "The Six Nations Championship"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Robert Louis Stevenson, Graham Greene and Sir Kingsley Amis were British writers.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "I just guessed lol",
+        "official_explanation": "This statement is True.",
+        "correct_answers": [
+            "True"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who is in charge of appointing the local Chief Constable?",
+        "choices": [
+            "A judge",
+            "Police and Crime Commissioners",
+            "The mayor",
+            "The local community members"
+        ],
+        "personal_comment": "It's the police and crime comissioners",
+        "official_explanation": "PCCs (Police and Crime Commissioners) set local police priorities and the local policing budget. They also appoint the local Chief Constable.",
+        "correct_answers": [
+            "Police and Crime Commissioners"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who deals with cases involving personal injury, family matters, breaches of contract and divorce in Scotland?",
+        "choices": [
+            "County Courts",
+            "The Sheriff Court",
+            "The Crown Court",
+            "The High Court"
+        ],
+        "personal_comment": "It is the sheriff court.",
+        "official_explanation": "County Courts deal with a wide range of civil disputes. These include people trying to get back money that is owed to them, cases involving personal injury, family matters, breaches of contract, and divorce. In Scotland, most of these matters are dealt with in the Sheriff Court.",
+        "correct_answers": [
+            "The Sheriff Court"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Queen Elizabeth I was a Catholic:",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "She was a protestant - False",
+        "official_explanation": "Queen Elizabeth I was a Protestant.",
+        "correct_answers": [
+            "False"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When did Emmeline Pankhurst set up the women’s Franchise League, which fought to get the vote in local elections for married women?",
+        "choices": [
+            "1880",
+            "1889",
+            "1890",
+            "1899"
+        ],
+        "personal_comment": "I guessed 1889 (which is correct) - Could have been 1899",
+        "official_explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the women’s Franchise League in 1889, which fought to get the vote in local elections for married women. In 1903 she helped found the Women’s Social and Political Union (WSPU).",
+        "correct_answers": [
+            "1889"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which of the following countries belongs to the Commonwealth?",
+        "choices": [
+            "Norway",
+            "Zimbabwe",
+            "Nauru",
+            "Algeria"
+        ],
+        "personal_comment": "I eliminated Zimbabwe, Algeria and then I forgot that I needed to select one which DOES belong to the Commonwealth. I chose `Norway` :facepalm:",
+        "official_explanation": null,
+        "correct_answers": [
+            "Nauru"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Where did slaves mainly come from during the slave trade?",
+        "choices": [
+            "South America",
+            "West Africa",
+            "Southeast Asia",
+            "North Africa"
+        ],
+        "personal_comment": "I guessed West Africa, even though it would have (probably ?) been easier to get them from North Africa ?  (it was correct)",
+        "official_explanation": null,
+        "correct_answers": [
+            "West Africa"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Who succeeded David Cameron as Prime Minister after the referendum on the UK’s membership of the European Union?",
+        "choices": [
+            "Boris Johnson",
+            "Theresa May",
+            "Gordon Brown",
+            "Liz Truss"
+        ],
+        "personal_comment": "It was Theresa May.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Theresa May"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Churchill was the son of a politician and, before becoming a Conservative MP in 1900, was a soldier and journalist.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "personal_comment": "It was actually True. I assumed that he couldn't have been that old during WW2.",
+        "official_explanation": null,
+        "correct_answers": [
+            "True"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "In which category did Jayne Torvill and Christopher Dean win gold medals at the Olympic Games in 1984?",
+        "choices": [
+            "Rowing",
+            "Marathon",
+            "Swimming",
+            "Ice dancing"
+        ],
+        "personal_comment": "It is Ice dancing.",
+        "official_explanation": null,
+        "correct_answers": [
+            "Ice dancing"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "When was slavery abolished throughout the British Empire?",
+        "choices": [
+            "1833",
+            "1843",
+            "1844",
+            "1861"
+        ],
+        "personal_comment": "I could have gone for 1843 as well - but it was 1833.",
+        "official_explanation": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+        "correct_answers": [
+            "1833"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Which TWO films were directed by David Lean?",
+        "choices": [
+            "Brief Encounter",
+            "The 39 Steps",
+            "Lawrence of Arabia",
+            "Chariots of Fire"
+        ],
+        "personal_comment": "Mnemonics : AH 39 ( Alfred Hitchcock) | Haha Chartion  ( Hugh Hudson) | So, by elimination : Brief Encounter and Lawrence of Arabia",
+        "official_explanation": null,
+        "correct_answers": [
+            "Lawrence of Arabia",
+            "Brief Encounter"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "Which court deals with minor criminal cases in England, Wales and Northern Ireland?",
+        "choices": [
+            "The Justice of the Peace Court",
+            "The Magistrates’ Court",
+            "The High Court",
+            "The Crown Court"
+        ],
+        "personal_comment": "I went for JPs, it was actually Magistrates court.",
+        "official_explanation": "In England, Wales and Northern Ireland, most minor criminal cases are dealt with in a Magistrates’ Court. In Scotland, minor criminal offences go to a Justice of the Peace Court.",
+        "correct_answers": [
+            "The Magistrates’ Court"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "wrong",
+        "question": "How can you visit the UK Parliament (choose TWO options)?",
+        "choices": [
+            "Arranging a tour through the visitor services",
+            "Writing to your local MP to ask for tickets",
+            "Queueing on the day at the public entrance",
+            "Contacting an MSP"
+        ],
+        "personal_comment": "Writing to an MP and Queueing on the day",
+        "official_explanation": null,
+        "correct_answers": [
+            "Queueing on the day at the public entrance",
+            "Writing to your local MP to ask for tickets"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who were the pioneers of the IVF (in-vitro fertilisation) therapy?",
+        "choices": [
+            "Sir Frank Whittle and Sir Christopher Cockerell",
+            "Sir Robert Edwards and Patrick Steptoe",
+            "Francis Creek and John Logie Baird",
+            "Sir Ian Wilmot and Keith Campbell"
+        ],
+        "personal_comment": "What are you doing Steptoe?  (mnemonic)",
+        "official_explanation": null,
+        "correct_answers": [
+            "Sir Robert Edwards and Patrick Steptoe"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Who directed the movie ‘Four Weddings and a Funeral’ in 1994?",
+        "choices": [
+            "Mike Newell",
+            "Hugh Hudson",
+            "Kevin MacDonald",
+            "Nicolas Roeg"
+        ],
+        "personal_comment": "I happened to remember somehow , but it's still a guess.",
+        "official_explanation": "Four Weddings and a Funeral (1994) was directed by Mike Newell.",
+        "correct_answers": [
+            "Mike Newell"
+        ],
+        "right": null
+    },
+    {
+        "correctness": "guessed",
+        "question": "Where was Emmeline Pankhurst born?",
+        "choices": [
+            "Liverpool",
+            "Kent",
+            "Manchester",
+            "Chester"
+        ],
+        "personal_comment": "I guessed Manchester. Informed guess anyway (because I kept messing up liverpool)",
+        "official_explanation": "Emmeline Pankhurst was born in Manchester in 1858.",
+        "correct_answers": [
+            "Manchester"
+        ],
+        "right": null
+    }
+]
