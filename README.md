@@ -31,11 +31,13 @@ There are 2 python programs available :
   
 You can run it on the current set of questions (`QuestionsWithCorrectChoice.pkl`) and add your own!
 
+This is the easiest way to add new questions in my opinion.
+
 ### Adding text questions
 
 If you want to add your own questions, you can use the following format:
 
-<<<
+```
 --- (wrong)|(guessed)|(any other tag) 
 <blank line> 
 QUESTION 
@@ -46,14 +48,14 @@ CHOICE 2
 CHOICE N 
 <blank line> 
 PERSONAL COMMENT
-```
+ \```
 OFFICIAL EXPLANATION (may be multiple lines) (optional)
-``` 
->>>
+ \``` 
+```
 
 For example
 
-<<<
+```
 --- Guessed
  
 Which British sportsman won five consecutive gold medals at the Olympic Games in the rowing category?
@@ -64,4 +66,11 @@ Which British sportsman won five consecutive gold medals at the Olympic Games in
     Sir Steve Redgrave
 
 I always forget that it's Redgrave 
->>>
+
+ \```
+A comment
+ \```
+
+```
+
+The `\` are there to prevent the code block from being ended and started again. 
